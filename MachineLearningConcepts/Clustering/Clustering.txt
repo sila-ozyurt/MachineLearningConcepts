@@ -1,0 +1,5 @@
+customer segmentation
+1content base filtering
+2collaboration filtering
+outliers can be detected easily
+clustering is used in image processing 
